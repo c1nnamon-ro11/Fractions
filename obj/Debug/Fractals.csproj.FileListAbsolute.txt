@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\Fractals\bin\Debug\Fractals.exe.config
+C:\Users\USER\source\repos\Fractals\bin\Debug\Fractals.exe
+C:\Users\USER\source\repos\Fractals\bin\Debug\Fractals.pdb
+C:\Users\USER\source\repos\Fractals\obj\Debug\Fractals.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Fractals\obj\Debug\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Fractals\obj\Debug\Fractals.exe
+C:\Users\USER\source\repos\Fractals\obj\Debug\Fractals.pdb
